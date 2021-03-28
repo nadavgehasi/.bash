@@ -1,0 +1,2 @@
+# .bash
+NG Bashrc
